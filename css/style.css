@@ -255,4 +255,24 @@ hr.socket{
             }
 
 	
+
+}
+
+
+
+
+@media screen (max-width:574px){
+
+
+	 .clients img{
+            	max-width: 30%;
+            	display: block;
+            	margin:  0 auto;
+            }
+
+
+     footer .row p{
+              	font-size: 3rem;
+     }
+
 }
