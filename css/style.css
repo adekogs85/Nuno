@@ -41,6 +41,10 @@ body{
 	padding-top: 0.8rem;
 }
 
+.navbar-dark .navbar-nav .nav-item .nav-link.active{
+	color: #1ebba3;
+}
+
 
 .navbar-dark .navbar-nav .nav-item .nav-link.active,
 .navbar-dark .navbar-nav .nav-item .nav-link:hover{
